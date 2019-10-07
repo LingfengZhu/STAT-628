@@ -29,7 +29,7 @@ The summary file and presentation slides can be found as following:
 * Refer to ```module2.ipynb``` for the executive jupyter notebook (R) file of our analysis.
 
 ## Acknowledgement
-Prof. HYUNSEUNG KANG, UW-Madison
+Prof. HYUNSEUNG KANG, UW-Madison  
 STAT 628, UW-Madison
 
 ## Contact information
