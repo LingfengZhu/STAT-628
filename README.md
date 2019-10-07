@@ -1,5 +1,5 @@
 # STAT-628-Module-2: BodyFat-Project
-This repo contains the codes, report, app and PPT for the project Male BodyFat Predictor written by Lingfeng Zhu (me), Ruochen Yin, Jiahan Li and Chong Wei for STAT-682. All codes are based on R.
+This repo contains the codes, report, app and PPT for the project Male BodyFat Predictor written by Lingfeng Zhu (me), Ruochen Yin, Jiahan Li and Chong Wei for STAT-628. All codes are based on R.
 
 ## Dataset
 The BodyFat data set is a real data set of 252 men with measurements of their percentage of body fat and various body circumference measurements.  
